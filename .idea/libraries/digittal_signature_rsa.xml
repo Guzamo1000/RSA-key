@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="digittal.signature.rsa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/digittal.signature.rsa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
